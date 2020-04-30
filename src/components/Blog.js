@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import Meme from '../photos/meme.jpg';
 import DonkeyShow from '../photos/donkeyShow.JPG';
 
+const API_KEY = process.env.REACT_APP_GIPHY_API;
+
 function useGiphy(query) {
     const [results, setResults] = useState([]); // local useState of this custom hook
     const [loading, setLoading] = useState(false);
@@ -11,7 +13,7 @@ function useGiphy(query) {
             try { //try catch is async await
                 setLoading(true);
                 const response = await fetch(
-                    `https://api.giphy.com/v1/gifs/search?api_key=ucN2QlY08zcfkQAAgPpssfDMiqcS5LY1&q=${query}&limit=1&offset=0&rating=G&lang=en`
+                    `https://api.giphy.com/v1/gifs/search?api_key=${API_KEY}&q=${query}&limit=1&offset=0&rating=G&lang=en`
                 );
                 const json = await response.json();
 
