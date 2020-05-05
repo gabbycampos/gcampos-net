@@ -50,6 +50,18 @@ const projectData = [
         }
     },
     {
+        text: 'This is an app to see different variations of your name.',
+        date: 'Name variations',
+        category: {
+            tag: 'JavaScript',
+            color: '#f5de1a'
+        },
+        link: {
+            url: 'https://gabbycampos.github.io/name-variations/',
+            text: 'check it out'
+        }
+    },
+    {
         text: 'I learned how to pull data from Flickr using their API key. The webpage I created allows users to search for public images while also enjoying an interactive webpage where one can change the background color of the webpage.',
         date: 'Flickr API',
         category: {
