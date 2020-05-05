@@ -2,6 +2,18 @@
 
 const projectData = [
     {
+        text: 'A weather app with React Hooks using a weatherbit API.',
+        date: 'Weather app with Hooks',
+        category: {
+            tag: 'react',
+            color: '#add8e6'
+        },
+        link: {
+            url: 'https://gabbycampos.github.io/weatherApp-with-hooks/',
+            text: 'check it out'
+        }
+    },
+    {
         text: 'This is one of the React projects from freecodecamp but developed with react hooks.',
         date: 'Calculator with Hooks',
         category: {
