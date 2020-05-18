@@ -77,6 +77,7 @@ const Blog = () => {
                         <a href={"http://davidramis-us.us/"} className="people-links" target="_blank" rel="noopener noreferrer">davidramis</a>
                         <a href={"https://justinloans.bandcamp.com/"} className="people-links" target="_blank" rel="noopener noreferrer">justinloans</a>
                         <a href={"https://patrickburnell.cargo.site/"} className="people-links" target="_blank" rel="noopener noreferrer">patrickburnell</a>
+                        <a href={"http://www.bracketstudios.com/"} className="people-links" target="_blank" rel="noopener noreferrer">bracketstudios</a>
                     </div>
                     <p>Check out their websites, enjoy!</p>
                 </div>

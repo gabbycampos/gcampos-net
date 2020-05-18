@@ -15,7 +15,7 @@ const Contact = () => {
                     languages and frameworks in Chicago, IL.
                     </p>
                     <h5>2016 - Present</h5>
-                    <p>I retouch photos to specification of the client and render 3D images for advertising.</p>
+                    <p>I retouch photos to specifications of the client and render 3D images for advertising.</p>
                     <p>Thanks for visiting!</p>
                     <p><a href="mailto:gabbycampos31@gmail.com">gabbycampos31@gmail.com</a></p>
                 </div>
