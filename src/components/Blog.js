@@ -69,10 +69,12 @@ const Blog = () => {
                 <div className="card">
                     <h2>People I like.</h2>
                     <div className="links">
+                        <a href={"http://www.rickvilla.net/"} className="people-links" target="_blank" rel="noopener noreferrer">rickvilla</a>
                         <a href={"https://bakasucks.myshopify.com/"} className="people-links" target="_blank" rel="noopener noreferrer">bakasucks</a>
                         <a href={"https://www.echothehuman.com/"} className="people-links" target="_blank" rel="noopener noreferrer">echothehuman</a>
                         <a href={"http://www.genevievepascolla.com/"} className="people-links" target="_blank" rel="noopener noreferrer">genevivepascolla</a>
                         <a href={"http://kevinmichaelbriggs.com/"} className="people-links" target="_blank" rel="noopener noreferrer">kevinmichaelbriggs</a>
+                        <a href={"https://www.thomasracan.com/"} className="people-links" target="_blank" rel="noopener noreferrer">thomasracan</a>
                         <a href={"https://www.jasongregoryforest.com/"} className="people-links" target="_blank" rel="noopener noreferrer">jasongregoryforest</a>
                         <a href={"http://davidramis-us.us/"} className="people-links" target="_blank" rel="noopener noreferrer">davidramis</a>
                         <a href={"https://justinloans.bandcamp.com/"} className="people-links" target="_blank" rel="noopener noreferrer">justinloans</a>
