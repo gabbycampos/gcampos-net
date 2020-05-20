@@ -62,6 +62,18 @@ const projectData = [
         }
     },
     {
+        text: 'One of the freecodecamp take home projects. Search for any article or select a random one.',
+        date: 'Wikipedia Viewer',
+        category: {
+            tag: 'JavaScript',
+            color: '#f5de1a'
+        },
+        link: {
+            url: 'https://gabbycampos.github.io/wikipedia-viewer/',
+            text: 'check it out'
+        }
+    },
+    {
         text: 'This is an app to see different variations of your name.',
         date: 'Name variations',
         category: {
