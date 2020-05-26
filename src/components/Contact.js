@@ -17,7 +17,11 @@ const Contact = () => {
                     <h5>2016 - Present</h5>
                     <p>I retouch photos to specifications of the client and render 3D images for advertising.</p>
                     <p>Thanks for visiting!</p>
-                    <p><a href="mailto:gabbycampos31@gmail.com">gabbycampos31@gmail.com</a></p>
+                    <div className="contact-links">
+                        <p><a href="mailto:gabbycampos31@gmail.com">gabbycampos31@gmail.com</a></p>
+                        <p><a href="https://www.linkedin.com/in/gabriela-campos-b5195616a/">linkedin</a></p>
+                    </div>
+
                 </div>
             </div>
         </div>
