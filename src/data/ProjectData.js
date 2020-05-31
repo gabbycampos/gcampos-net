@@ -2,6 +2,18 @@
 
 const projectData = [
     {
+        text: 'Built a todo app with React Context and Reducer. Data is stored in local storage.',
+        date: 'Context and Reducer todo app.',
+        category: {
+            tag: 'react',
+            color: '#add8e6'
+        },
+        link: {
+            url: 'https://gabbycampos.github.io/context-reducer/',
+            text: 'check it out'
+        }
+    },
+    {
         text: 'A weather app with React Hooks using a weatherbit API.',
         date: 'Weather app with Hooks',
         category: {
