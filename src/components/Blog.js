@@ -83,34 +83,7 @@ const Blog = () => {
                     </div>
                     <p>Check out their websites, enjoy!</p>
                 </div>
-
-                <div className="card">
-                    <h2>Richmond's Bar</h2>
-                    <h5>May 2, 2020</h5>
-                    <div className="bar video">
-                        <iframe width={"560"} height={"315"} 
-                        src={"https://www.youtube.com/embed/0D54Q4nTpAE" }
-                        frameborder={"0"} 
-                        allow={"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" }
-                        allowfullscreen
-                        title={"bar"}
-                        ></iframe>
-                        <p>Richmond's Bar in Chicago rocks, and they are taking to go orders <span role="img" aria-label="heart emoji">❤️</span></p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <h2>An Elk out and about.</h2>
-                    <div className="elk">
-                        <iframe src={"https://www.nps.gov/media/video/embed.htm?id=CEF4E37F-1DD8-B71B-0B7B5EC8C8071E13"}
-                            width={"480"} height={"306"} frameBorder={"0"}
-                            scrolling={"auto"}
-                            allowFullScreen
-                            title={"elk"}
-                        />
-                    </div>
-                </div>
-
+                
                 <div class="card">
                     <h2>3D</h2>
                     <h5>February 14, 2020</h5>
