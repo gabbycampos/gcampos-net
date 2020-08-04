@@ -2,18 +2,6 @@
 
 const projectData = [
     {
-        text: 'Built a todo app with React Context and Reducer. Data is stored in local storage.',
-        date: 'Context and Reducer todo app.',
-        category: {
-            tag: 'react',
-            color: '#add8e6'
-        },
-        link: {
-            url: 'https://gabbycampos.github.io/context-reducer/',
-            text: 'check it out'
-        }
-    },
-    {
         text: 'A weather app with React Hooks using a weatherbit API.',
         date: 'Weather app with Hooks',
         category: {
@@ -264,42 +252,6 @@ const projectData = [
             url: 'https://gabbycampos.github.io/palindrome_js/',
             text: 'check it out'
         }
-    }
-    , {
-        text: 'This is the first of the Responsive Web Design Projects from FreeCodeCamp. Created with HTML and CSS',
-        date: 'Tribute Page',
-        category: {
-            tag: 'FreeCodeCamp',
-            color: '#006400'
-        },
-        link: {
-            url: 'https://codepen.io/gabatron/pen/KKpZvez',
-            text: 'check it out'
-        }
-    }
-    , {
-        text: 'This is the second of the Responsive Web Design Projects from FreeCodeCamp. Created with HTML and CSS.',
-        date: 'Survey Form',
-        category: {
-            tag: 'JavaScript',
-            color: '#006400'
-        },
-        link: {
-            url: 'https://codepen.io/gabatron/pen/qBdxEzY',
-            text: 'check it out'
-        }
-    },
-    {
-        text: 'This is the third of the Responsive Web Design Projects from FreeCodeCamp. Created with HTML and CSS.',
-        date: 'Product Landing Page',
-        category: {
-            tag: 'FreeCodeCamp',
-            color: '#006400'
-        },
-        link: {
-            url: 'https://codepen.io/gabatron/pen/oNXQNKq',
-            text: 'check it out'
-        }
     },
     {
         text: 'This is the fourth of the Responsive Web Design Projects from FreeCodeCamp. Created with HTML and CSS.',
@@ -313,18 +265,7 @@ const projectData = [
             text: 'check it out'
         }
     },
-    {
-        text: 'This is the fifth of the Responsive Web Design Projects from FreeCodeCamp. Created with HTML and CSS.',
-        date: 'Personal Portfolio Page',
-        category: {
-            tag: 'FreeCodeCamp',
-            color: '#006400'
-        },
-        link: {
-            url: 'https://codepen.io/gabatron/pen/WNvPQEJ',
-            text: 'check it out'
-        }
-    }
+
 ];
 
 export default projectData;
