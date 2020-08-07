@@ -15,18 +15,6 @@ const projectData = [
     },
     {
         text: 'This is one of the React projects from freecodecamp but developed with react hooks.',
-        date: 'Calculator with Hooks',
-        category: {
-            tag: 'react',
-            color: '#add8e6'
-        },
-        link: {
-            url: 'https://gabbycampos.github.io/calculator-hooks/',
-            text: 'check it out'
-        }
-    },
-    {
-        text: 'This is one of the React projects from freecodecamp but developed with react hooks.',
         date: 'Random Quotes with Hooks',
         category: {
             tag: 'react',
@@ -58,6 +46,18 @@ const projectData = [
         },
         link: {
             url: 'https://gabbycampos.github.io/bullet-journal/',
+            text: 'check it out'
+        }
+    },
+    {
+        text: 'A JS todo app with local storage.',
+        date: 'Todo App',
+        category: {
+            tag: 'JavaScript',
+            color: '#f5de1a'
+        },
+        link: {
+            url: 'https://gabbycampos.github.io/Todo/',
             text: 'check it out'
         }
     },
@@ -110,30 +110,6 @@ const projectData = [
         }
     },
     {
-        text: 'Built the Whack A Mole game with JavaScript',
-        date: 'Whack A Mole',
-        category: {
-            tag: 'JavaScript',
-            color: '#f5de1a'
-        },
-        link: {
-            url: 'https://gabbycampos.github.io/whack-a-mole-JS/',
-            text: 'check it out'
-        }
-    },
-    {
-        text: 'Built a snake game with JavaScript',
-        date: 'Snake Game',
-        category: {
-            tag: 'JavaScript',
-            color: '#f5de1a'
-        },
-        link: {
-            url: 'https://gabbycampos.github.io/snake-game-JS',
-            text: 'check it out'
-        }
-    },
-    {
         text: 'First of the Front End Libraries project. Made with React.',
         date: 'Random Quote',
         category: {
@@ -166,18 +142,6 @@ const projectData = [
         },
         link: {
             url: 'https://codepen.io/gabatron/pen/abvNeoP',
-            text: 'check it out'
-        },
-    },
-    {
-        text: 'Fourth of the Front End Libraries project. Made with React.',
-        date: 'JavaScript Calculator',
-        category: {
-            tag: 'FreeCodeCamp',
-            color: '#006400'
-        },
-        link: {
-            url: 'https://codepen.io/gabatron/pen/QWjEWGN',
             text: 'check it out'
         },
     },
